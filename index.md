@@ -12,32 +12,33 @@ PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
 ## Currently
 
-Standing on the shoulders of giants
+Profiling the "senses" of marine bacteria.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Proteomics, Mass spectrometry, Oceanography, Microbial ecology, Bioinformatics
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Phosphoproteomics, Best practices in metaproteomics, bacterial sensing and signalling
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+'2013-Present'
+__MIT-WHOI Joint Program, Chemical Oceanography__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2013`
+__Stetson University, DeLand, FL__
 
-- Sizar
+- B.S. Chemistry, Magna cum laude
+- University Honors Program
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2006-2010`
+__Seminole High School, Sanford, FL__
 
-- Fellow
+- International Baccalaureate diploma, Summa cum laude
 
 
 
