@@ -26,7 +26,7 @@ Phosphoproteomics, Best practices in metaproteomics, bacterial sensing and signa
 
 ## Education
 
-'2013-Present'
+`2013 - Present`
 __MIT-WHOI Joint Program, Chemical Oceanography__
 
 `2010-2013`
@@ -43,19 +43,35 @@ __Seminole High School, Sanford, FL__
 
 
 ## Awards
+`2008`
+- National Security Language Initiative for Youth (NSLI-Y) Scholarship
+
+`2010`
+- Dobro Slovo Initiate
+
+`2011`
+- Phi Eta Sigma
 
 `2012`
-President, *Royal Society*, London, UK
+- Phi Beta Kappa
 
-Associate, *French Academy of Science*, Paris, France
+`2013`
+- Barry Goldwater Scholar
 
+`2014`
+- Walter A. Rosenblith Presidential Scholar (MIT)
+- Stetson University Outstanding Senior, Department of Chemistry
+- American Institute of Chemists Outstanding Senior
+
+`2015`
+- NSF GFRP Award Recipient
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Peer-reviewed
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -65,22 +81,12 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Other 
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2017`
+- Orlando Sentinel, <a href = 'http://www.orlandosentinel.com/os-ed-why-i-march-for-science-new-voice-20170419-story.html'>Why I March for Science </a>
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
