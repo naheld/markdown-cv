@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Noelle A. Held's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Noelle A. Held
+PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://www.mit.edu/~nheld/">http://www.mit.edu/~nheld/</a>
 </div>
 
 
