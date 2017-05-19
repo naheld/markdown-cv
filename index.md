@@ -6,8 +6,12 @@ title: Noelle A. Held's CV
 PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
 <div id="webaddress">
-<a href="http://www.mit.edu/~nheld/">http://www.mit.edu/~nheld/</a>
+<a href="http://www.mit.edu/~nheld/">Web</a>
+| <a href="https://github.com/naheld">Github</a>
+| <a href="https://www.linkedin.com/in/noelleheld/">LinkedIn</a>
+
 </div>
+
 
 
 ## Currently
@@ -16,7 +20,7 @@ Profiling the "senses" of marine bacteria.
 
 ### Specialized in
 
-Proteomics, Mass spectrometry, Oceanography, Microbial ecology, Bioinformatics
+Proteomics, mass spectrometry, oceanography, microbial ecology, analytical chemistry, bioinformatics
 
 
 ### Research interests
@@ -26,7 +30,7 @@ Phosphoproteomics, metaproteomics, bacterial sensing and signalling
 
 ## Education
 
-`2013 - Present`
+`2013 - `
 __MIT-WHOI Joint Program, Chemical Oceanography__
 
 `2010-2013`
@@ -41,21 +45,21 @@ __Seminole High School, Sanford, FL__
 - International Baccalaureate diploma, Summa cum laude
 
 ## Experience
-`June 2014 - Present`
+`2014 -`
 - MIT-WHOI Joint Program
 Anticipated thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated application to ocean monitoring. 
 
-`Jan 2013 - August 2013`
+`2013
 - Guest student and summer student fellow with Mak Saito, WHOI.
 Trace metal and proteomic analysis including Class 100 clean room technique, ICPMS elemental analysis, HPLC coupled mass spectroscopy, bioinformatics , and field work (sampling Fe and Mn above the mid-Atlantic ridge)
 Project titles: "Mid-Atlantic hydrothermal element profiles" and "Cobalamin chemistry with implications for seawater cobalt measurements"
 
-`May 2012 - Aug 2011`
+`2012`
 - Boise State University, NSF REU (summer two)  
 Mentor: Eric Brown.
 Project title: "Development of fluorescence-based sensor for hydrogen sulfide in aqueous solution."
 
-`May 2011 - Aug 2011`
+`2011`
 - Boise State University, NSF REU (summer one)
 Mentor: Eric Brown. 
 Project title: "Water-soluble fluorescent zinc complexes: towards specific sensors for hydrogen sulfide in aqueous solution."
@@ -73,7 +77,7 @@ Proteomics and phytoplankton at the Bermuda Ocean Times Series (BATS)
 - F.S. Maria S. Merian 
 MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent discovery
 
-## Awards, Fellowships and Grants
+## Awards and Grants
 `2017`
 - Ocean Ventures and Von Dassel Funds
 
@@ -101,13 +105,13 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - National Security Language Initiative for Youth (NSLI-Y) Scholarship
 
 ## Affiliations
-American Association for the Advancement of Science
-American Society for Mass Spectrometry
-Association for the Sciences of Limnology and Oceanography
-American Chemical Society
-Phi Beta Kappa
-Phi Eta Sigma
-Dobro Slovo
+- American Association for the Advancement of Science
+- American Society for Mass Spectrometry
+- Association for the Sciences of Limnology and Oceanography
+- American Chemical Society
+- Phi Beta Kappa
+- Phi Eta Sigma
+- Dobro Slovo
 
 ## Publications
 
@@ -115,7 +119,7 @@ Dobro Slovo
 
 ### Peer-reviewed
 
-`Coming soon!`
+Coming soon!
 
 ### Other 
 
@@ -156,10 +160,10 @@ Dobro Slovo
 
 ## Teaching
 `2016`
-- “Science, Politics and Environmental Policy”, TA
+- “Science, Politics and Environmental Policy”, Teaching Assistant
 
 `2015`
-- MIT Splash (High School Short Courses): An Introduction to Mass Spec
+- MIT Splash (High School Short Course): An Introduction to Mass Spec
 
 `2011-2013`
 - Stetson University, Writing Center Tutor
