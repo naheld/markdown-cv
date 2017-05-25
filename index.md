@@ -49,7 +49,7 @@ __Seminole High School, Sanford, FL__
 - MIT-WHOI Joint Program
 Anticipated thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated application to ocean monitoring. 
 
-`2013
+`2013`
 - Guest student and summer student fellow with Mak Saito, WHOI.
 Trace metal and proteomic analysis including Class 100 clean room technique, ICPMS elemental analysis, HPLC coupled mass spectroscopy, bioinformatics , and field work (sampling Fe and Mn above the mid-Atlantic ridge)
 Project titles: "Mid-Atlantic hydrothermal element profiles" and "Cobalamin chemistry with implications for seawater cobalt measurements"
