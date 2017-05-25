@@ -113,6 +113,24 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - Phi Eta Sigma
 - Dobro Slovo
 
+## Programming Languages
+- Python (choice)
+- Matlab
+- R
+- HTML/CSS
+
+## Packages I Love
+- Biopython
+- Bokeh
+- Matplotlib
+- Pandas
+
+## Spoken Languages
+- English (Native)
+- Spanish (Intermediate)
+- Russian (Early Intermediate)
+- American Sign Language (Early Imtermediate) 
+
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
