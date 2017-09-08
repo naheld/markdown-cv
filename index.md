@@ -47,7 +47,7 @@ __Seminole High School, Sanford, FL__
 ## Experience
 `2014 -`
 - MIT-WHOI Joint Program
-Anticipated thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated application to ocean monitoring. 
+Thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated applications to the study of marine bacteria. 
 
 `2013`
 - Guest student and summer student fellow with Mak Saito, WHOI.
@@ -65,6 +65,10 @@ Mentor: Eric Brown.
 Project title: "Water-soluble fluorescent zinc complexes: towards specific sensors for hydrogen sulfide in aqueous solution."
 
 ## Field Work
+'June-August 2017'
+- R.R.S. James Cook
+JC150/Ziploc (Zinc, Iron and Phosphorous in the Subtropical Gyre): In situ metaproteomics, shipboard incubations
+
 `Jan-Feb 2016`
 - R.V. Falkor 
 Investigating life without oxygen in the tropical pacific” http://schmidtocean.org/cruise/investigating-life-without-oxygen-in-the-tropical-pacific/cruise-log/
@@ -79,7 +83,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Awards and Grants
 `2017`
-- Ocean Ventures and Von Dassel Funds
+- WHOI Ocean Ventures and Von Dassel Funding grants
 
 `2015`
 - NSF GFRP Award Recipient
@@ -148,6 +152,7 @@ Coming soon!
 ### Professional
 `2017`
 - ASLO National Meeting: "Sensing and Signaling: Two component systems in the marine ecosystem” 
+- MIT-Oxford Call of the Wild workshop: "Does Citizen Science "tame" the wild?"
 
 `2016`
 - MIT-Merck meet-up: “Diagnosing the ocean: protein biomarkers for marine microbe function.” 
