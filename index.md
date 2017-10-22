@@ -65,7 +65,7 @@ Mentor: Eric Brown.
 Project title: "Water-soluble fluorescent zinc complexes: towards specific sensors for hydrogen sulfide in aqueous solution."
 
 ## Field Work
-'June-August 2017'
+`June-August 2017`
 - R.R.S. James Cook
 JC150/Ziploc (Zinc, Iron and Phosphorous in the Subtropical Gyre): In situ metaproteomics, shipboard incubations
 
@@ -141,7 +141,8 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ### Peer-reviewed
 
-Coming soon!
+'2017'
+- Lee, M., Webb, E., Walworth, N., Fu, F., Held, N., Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Applied and Environmental Microbiology, In Press.
 
 ### Other 
 
@@ -152,7 +153,7 @@ Coming soon!
 ### Professional
 `2017`
 - ASLO National Meeting: "Sensing and Signaling: Two component systems in the marine ecosystem” 
-- MIT-Oxford Call of the Wild workshop: "Does Citizen Science "tame" the wild?"
+- MIT-Oxford Call of the Wild workshop (London, UK): "Does Citizen Science "tame" the wild?"
 
 `2016`
 - MIT-Merck meet-up: “Diagnosing the ocean: protein biomarkers for marine microbe function.” 
