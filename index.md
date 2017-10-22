@@ -141,7 +141,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ### Peer-reviewed
 
-'2017'
+`2017`
 - Lee, M., Webb, E., Walworth, N., Fu, F., Held, N., Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Applied and Environmental Microbiology, In Press.
 
 ### Other 
