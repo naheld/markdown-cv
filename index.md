@@ -4,6 +4,7 @@ title: Noelle A. Held's CV
 ---
 # Noelle A. Held
 PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
+Affiiated with WHOI Marine Chemistry and Geochemistry Department, MIT Department of Earth Atmospheric and Planetary Sciences, and MIT Program in Atmospheres Oceans and Climate (PAOC)
 
 <div id="webaddress">
 <a href="http://www.mit.edu/~nheld/">Web</a>
@@ -16,7 +17,7 @@ PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
 ## Currently
 
-Profiling the "senses" of marine bacteria.
+Developing visualizations for marine metaproteomics data analysis.
 
 ### Specialized in
 
@@ -152,6 +153,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ## Presentations and Speaking Engagements
 ### Professional
 `2017`
+- MIT PAOC SLS Seminar: "The eyes and ears of the ocean-climate system"
 - ASLO National Meeting: "Sensing and Signaling: Two component systems in the marine ecosystem” 
 - MIT-Oxford Call of the Wild workshop (London, UK): "Does Citizen Science "tame" the wild?"
 
@@ -194,6 +196,9 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - Starke Elementary School, science tutor and demonstration coordinator
 
 ## Service
+`2017`
+- Advisor to MIT PAOC retreat committee
+
 `2016`
 - MIT Presidential Advisory Cabinet 
 - MIT Faculty Committee on Graduate Programs
