@@ -84,7 +84,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Awards and Grants
 `2017`
-- WHOI Ocean Ventures and Von Dassel Funding grants
+- WHOI Ocean Ventures and Von Dassel Fund grants
 
 `2015`
 - NSF GFRP Award Recipient
@@ -198,6 +198,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ## Service
 `2017`
 - Advisor to MIT PAOC retreat committee
+- Coordinator, WHOI Biogeochemistry Discussion Series
 
 `2016`
 - MIT Presidential Advisory Cabinet 
