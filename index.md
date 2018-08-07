@@ -148,7 +148,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ### Papers in Refereed Journals
 `2018`
-- Held, N., Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" PROC. OF THE 17th PYTHON IN SCIENCE CONF. (SCIPY 2018) (in review)
+- Held, N., Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" PROC. OF THE 17th PYTHON IN SCIENCE CONF. (SCIPY 2018) <a href = 'http://conference.scipy.org/proceedings/scipy2018/n_held.html'>https://doi.org/10.25080/Majora-4af1f417-010 </a>
 - Held, N., McIlvin, M., Moran, D., Laub, M., Saito, M. "Biogeochemical drivers of two component regulation in marine bacteria." (in revision)
 
 `2017`
