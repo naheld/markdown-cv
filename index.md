@@ -162,7 +162,9 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ## Papers Presented at Meetings and Workshops
 
 `2018`
-- Held, N., McIlvin, M., Saito, M. ASMS National Meeting: "Approaches for Enviornmental Phosphoproteomics: Measuring, Analyzing and Interpreting a MetaPhosphoproteome"  
+- Held, N., Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. Scipy 2018: "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" <a href = 'https://youtu.be/WYmAu0GiSU4'> Youtube </a>
+- Held, N., McIlvin, M., Moran, M., Mahaffey, C., Lohan, M., Woodward, M., Saito , M. Marine Microbes GRC: "Proteome Regulation in Trichodesmium: Nutrient, Diel, and Morphological Effects"
+- Held, N., McIlvin, M., Saito, M. ASMS National Meeting: "Approaches for Environmental Phosphoproteomics: Measuring, Analyzing and Interpreting a Metaphosphoproteome"  
 - Held, N., McIlvin, M., Moran, D., Saito, M. WHOI MC&G Department Seminar: "It's Tricky to Rock a Rhyme: Proteins and Protein Regulation in Trichodesmium"
 - Saunders, J., McIlvin, M., Moran, D., Held, N., Futrelle, J., Webb, E., Santoro, Al., Dupont, Ch., Saito, M. "Characterization of the Central Pacific Oxygen Minimum Zone: The Results of the ProteOMZ Expedition." ASMS National Meeting
 - Saito, M., Gaylord, D. Shepherd, A., Saunders, J., Held, N., Chagnon, M., Symmonds, N., Kinkade D., MccIlvin, M. "Development of an Ocean Protein Portal for Exploration of Marine Metaproteomic Datasets" ASMS National Meeting
