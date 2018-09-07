@@ -5,10 +5,18 @@ title: Noelle A. Held's CV
 # Noelle A. Held
 PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
+Affiiated with WHOI Marine Chemistry and Geochemistry Department, MIT Department of Earth Atmospheric and Planetary Sciences, and MIT Program in Atmospheres Oceans and Climate (PAOC)
+
 <div id="webaddress">
-<a href="http://www.mit.edu/~nheld/">Web</a>
-| <a href="https://github.com/naheld">Github</a>
-| <a href="https://www.linkedin.com/in/noelleheld/">LinkedIn</a>
+Email: nheld@mit.edu    |
+Phone: +1 (508)-289-3994
+
+</div>
+
+<div id="webaddress">
+<a href="http://www.mit.edu/~nheld/">Web: http://www.mit.edu/~nheld/ </a><br>
+<a href="https://www.linkedin.com/in/noelleheld/">LinkedIn: https://www.linkedin.com/in/noelleheld/</a><br>
+ <a href="https://github.com/naheld">Github: https://github.com/naheld</a>
 
 </div>
 
@@ -16,7 +24,8 @@ PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
 
 ## Currently
 
-Profiling the "senses" of marine bacteria.
+Developing visualizations for marine metaproteomics data analysis.
+Optimizing phosphoproteomics for low quantity, complex samples.
 
 ### Specialized in
 
@@ -32,54 +41,22 @@ Phosphoproteomics, metaproteomics, bacterial sensing and signalling
 
 `2013 - `
 __MIT-WHOI Joint Program, Chemical Oceanography__
+- Anticipated graduation in Fall 2019
 
-`2010-2013`
+`2010-13`
 __Stetson University, DeLand, FL__
 
 - B.S. Chemistry, Magna cum laude
 - University Honors Program
 
-`2006-2010`
+`2006-10`
 __Seminole High School, Sanford, FL__
 
 - International Baccalaureate diploma, Summa cum laude
 
-## Experience
-`2014 -`
-- MIT-WHOI Joint Program
-Anticipated thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated application to ocean monitoring. 
-
-`2013
-- Guest student and summer student fellow with Mak Saito, WHOI.
-Trace metal and proteomic analysis including Class 100 clean room technique, ICPMS elemental analysis, HPLC coupled mass spectroscopy, bioinformatics , and field work (sampling Fe and Mn above the mid-Atlantic ridge)
-Project titles: "Mid-Atlantic hydrothermal element profiles" and "Cobalamin chemistry with implications for seawater cobalt measurements"
-
-`2012`
-- Boise State University, NSF REU (summer two)  
-Mentor: Eric Brown.
-Project title: "Development of fluorescence-based sensor for hydrogen sulfide in aqueous solution."
-
-`2011`
-- Boise State University, NSF REU (summer one)
-Mentor: Eric Brown. 
-Project title: "Water-soluble fluorescent zinc complexes: towards specific sensors for hydrogen sulfide in aqueous solution."
-
-## Field Work
-`Jan-Feb 2016`
-- R.V. Falkor 
-Investigating life without oxygen in the tropical pacific” http://schmidtocean.org/cruise/investigating-life-without-oxygen-in-the-tropical-pacific/cruise-log/
-
-`Jan 2015`
-- R.V. Atlantic Explorer 
-Proteomics and phytoplankton at the Bermuda Ocean Times Series (BATS)
-
-`Jan-Feb 2013`
-- F.S. Maria S. Merian 
-MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent discovery
-
 ## Awards and Grants
 `2017`
-- Ocean Ventures and Von Dassel Funds
+- WHOI Ocean Ventures and Von Dassel Fund grants
 
 `2015`
 - NSF GFRP Award Recipient
@@ -104,6 +81,47 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2008`
 - National Security Language Initiative for Youth (NSLI-Y) Scholarship
 
+## Research Experience
+`2014 -`
+- MIT-WHOI Joint Program
+Thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated applications to the study of marine bacteria. 
+
+`2013`
+- Guest student and summer student fellow with Mak Saito, WHOI.
+Trace metal and proteomic analysis including Class 100 clean room technique, ICPMS elemental analysis, HPLC coupled mass spectroscopy, bioinformatics , and field work (sampling Fe and Mn above the mid-Atlantic ridge)
+Project titles: "Mid-Atlantic hydrothermal element profiles" and "Cobalamin chemistry with implications for seawater cobalt measurements"
+
+`2012`
+- Boise State University, NSF REU (summer two)  
+Mentor: Eric Brown.
+Project title: "Development of fluorescence-based sensor for hydrogen sulfide in aqueous solution."
+
+`2011`
+- Boise State University, NSF REU (summer one)
+Mentor: Eric Brown. 
+Project title: "Water-soluble fluorescent zinc complexes: towards specific sensors for hydrogen sulfide in aqueous solution."
+
+## Field Work
+`2018`
+- R.V. Atlantis
+Tricolim (Nutrient limitation and colimitation of nitrogen fixing bacteria): In situ metaproteomics, trace metal sampling, shipboard incubations
+
+`2017`
+- R.R.S. James Cook
+JC150/Ziploc (Zinc, Iron and Phosphorous in the Subtropical Gyre): In situ metaproteomics, shipboard incubations
+
+`2016`
+- R.V. Falkor 
+Investigating life without oxygen in the tropical pacific” http://schmidtocean.org/cruise/investigating-life-without-oxygen-in-the-tropical-pacific/cruise-log/
+
+`2015`
+- R.V. Atlantic Explorer 
+Proteomics and phytoplankton at the Bermuda Ocean Times Series (BATS)
+
+`2013`
+- F.S. Maria S. Merian 
+MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent discovery
+
 ## Affiliations
 - American Association for the Advancement of Science
 - American Society for Mass Spectrometry
@@ -113,52 +131,82 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - Phi Eta Sigma
 - Dobro Slovo
 
+## Programming Languages
+- Python (choice)
+- Matlab
+- R
+- HTML/CSS
+
+## Packages I Regularly Use
+- Biopython
+- Bokeh
+- Matplotlib
+- Pandas
+- Holoviews
+
+## Spoken Languages
+- English (Native)
+- Spanish (Intermediate)
+- Russian (Early Intermediate)
+- American Sign Language (Early Intermediate) 
+
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Peer-reviewed
+### Papers in Refereed Journals
+`2018`
+- <strong>Held, N.</strong>, Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" PROC. OF THE 17th PYTHON IN SCIENCE CONF. (SCIPY 2018) <a href = 'http://conference.scipy.org/proceedings/scipy2018/n_held.html'>https://doi.org/10.25080/Majora-4af1f417-010 </a>
+- <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (submitted to mSystems)
+- Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (submitted to Nature Microbiology)
 
-Coming soon!
+`2017`
+- Lee, M., Webb, E., Walworth, N., Fu, F., <strong>Held, N.</strong>, Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Applied and Environmental Microbiology, In Press.<br><br>
 
 ### Other 
 
 `2017`
 - Orlando Sentinel, <a href = 'http://www.orlandosentinel.com/os-ed-why-i-march-for-science-new-voice-20170419-story.html'>Why I March for Science </a>
 
-## Presentations and Speaking Engagements
-### Professional
+## Papers Presented at Meetings, Seminars and Workshops
+
+`2018`
+- <strong>Held, N.</strong>, McIlvin, M., Saito, M. ASMS National Meeting: "Approaches for Environmental Phosphoproteomics: Measuring, Analyzing and Interpreting a MetaPhosphoproteome"  
+- <strong>Held, N.</strong>, McIlvin, M., Moran, D., Saito, M. WHOI MC&G Department Seminar: "It's Tricky to Rock a Rhyme: Proteins and Protein Regulation in Trichodesmium"
+- Saunders, J., McIlvin, M., Moran, D., <strong>Held, N.</strong>, Futrelle, J., Webb, E., Santoro, Al., Dupont, Ch., Saito, M. "Characterization of the Central Pacific Oxygen Minimum Zone: The Results of the ProteOMZ Expedition." ASMS National Meeting
+- Saito, M., Gaylord, D. Shepherd, A., Saunders, J., <strong>Held, N.</strong>, Chagnon, M., Symmonds, N., Kinkade D., MccIlvin, M. "Development of an Ocean Protein Portal for Exploration of Marine Metaproteomic Datasets" ASMS National Meeting
+- McIlvin, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held, N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., Moore, E., Morris, R., Neely, B., Nunn, B., Saunders, J., Shepherd, A., Symmonds, N., Walsh, D., Saito, M. "Best Practices for Data Sharing of Ocean Metaproteomic Data Workshop Results" ASMS National Meeting
+
+
 `2017`
-- ASLO National Meeting: "Sensing and Signaling: Two component systems in the marine ecosystem” 
+- <strong>Held, N.</strong>, MIT PAOC SLS Seminar: "The eyes and ears of the ocean-climate system"
+- <strong>Held, N.</strong>, McIlvin, M., Moran, D., Saito, M. ASLO National Meeting: "Sensing and Signaling: Two component systems in the marine ecosystem”
+- <strong>Held, N.</strong>, Zakem, E. MIT-Oxford Call of the Wild workshop (London, UK): "Does Citizen Science "tame" the wild?"
 
 `2016`
-- MIT-Merck meet-up: “Diagnosing the ocean: protein biomarkers for marine microbe function.” 
-- WHOI, MC&G Department Seminar: “Protein phosphorylation: Methods and promise for enhanced understanding of marine microbes” 
-- MIT-Oxford Call of the Wild workshop: “Small Beasts: Wildness in the Microbial World” (coauthor Emily Zakem)
-- Ocean Sciences National Meeting: "Methods and Insights for Phosphoproteome Analysis of Marine Microbes" (poster)
+- <strong>Held, N.</strong>. WHOI, MC&G Department Seminar: “Protein phosphorylation: Methods and promise for enhanced understanding of marine microbes” 
+- Zakem, E., Held, N., MIT-Oxford Call of the Wild workshop: “Small Beasts: Wildness in the Microbial World” (coauthor Emily Zakem)It
+- <strong>Held, N.</strong>, McIlvin, M., Moran, D., Saito, M. Ocean Sciences National Meeting: "Methods and Insights for Phosphoproteome Analysis of Marine Microbes" (poster)
 
 `2015`
-- ASMS National Meeting, "Identification of Phosphorylation Sites in Marine Proteobacteria"
+- <strong>Held, N.</strong>, McIlvin, M., Saito, M. ASMS National Meeting, "Identification of Phosphorylation Sites in Marine Proteobacteria"
 
 `2012`
-- ACS Northwest Regional Meeting (NORM), poster
-- American Chemical Society National Meeting (San Diego), poster
-- Idaho INBRE conference, poster
-- Stetson University Undergraduate Research Symposium, poster
+- <strong>Held, N.</strong>, Brown, E. ACS Northwest Regional Meeting (NORM), poster
+- <strong>Held, N.</strong>, Brown, E. American Chemical Society National Meeting (San Diego), poster
+- <strong>Held, N.</strong>, Brown, E. Idaho INBRE conference, poster
+- <strong>Held, N.</strong>, Brown, E. Stetson University Undergraduate Research Symposium, poster
 
 `2011`
-- Idaho INBRE conference, poster
+- <strong>Held, N.</strong>, Brown, E. Idaho INBRE conference "Water-Soluble Fluorescent Zinc Complexes: Potential Sensors for Hydrogen Sulfide in Aqueous Solution"
 
-### Outreach
-`2016`
-- MIT Museum Trivia Night, "Studying ocean microbes" (Invited)
-- MIT Museum, “Life without oxygen in the tropical Pacific” (Invited)
+## Workshop Participation
+- Single Cell Proteomics (2018)
+- Best Practices in Marine Metaproteomics (2017)
+- "Call of the Wild" Interdiscipinary workshop (2016 and 2017)
 
-`2015`
-- MIT Museum/Cambridge Science Festival (Invited)
-- MIT Museum, “Diagnosing the Ocean: Adapting biomedical technology to assess the health of the sea.” (Invited)
 
-## Teaching
+## Teaching Experience
 `2016`
 - “Science, Politics and Environmental Policy”, Teaching Assistant
 
@@ -169,7 +217,25 @@ Coming soon!
 - Stetson University, Writing Center Tutor
 - Starke Elementary School, science tutor and demonstration coordinator
 
+## Outreach Talks and Speaking Engagements
+
+`2017`
+- ASLO National Meeting NSF GRFP Workshop 
+
+`2016`
+- MIT Museum Trivia Night, "Studying ocean microbes" (Invited)
+- MIT Museum, “Life without oxygen in the tropical Pacific” (Invited)
+- MIT-Merck meet-up: “Diagnosing the ocean: protein biomarkers for marine microbe function.” (Invited)
+
+`2015`
+- MIT Museum/Cambridge Science Festival (Invited)
+- MIT Museum, “Diagnosing the Ocean: Adapting biomedical technology to assess the health of the sea.” (Invited)
+
 ## Service
+`2017-2018`
+- Advisor to MIT PAOC retreat committee
+- Coordinator, WHOI Biogeochemistry Discussion Series
+
 `2016`
 - MIT Presidential Advisory Cabinet 
 - MIT Faculty Committee on Graduate Programs
