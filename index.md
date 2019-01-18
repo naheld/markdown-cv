@@ -24,8 +24,9 @@ Phone: +1 (508)-289-3994
 
 ## Currently
 
-Developing visualizations for marine metaproteomics data analysis.
-Optimizing phosphoproteomics for low quantity, complex samples.
+Investigating utility of metaproteomics datasets for systems biology questions.
+Studying nutritional stress in field populations of <a href = 'https://en.wikipedia.org/wiki/Trichodesmium'> Trichodesmium </a>
+
 
 ### Specialized in
 
@@ -34,7 +35,7 @@ Proteomics, mass spectrometry, oceanography, microbial ecology, analytical chemi
 
 ### Research interests
 
-Phosphoproteomics, metaproteomics, bacterial sensing and signalling
+Oceanography, phosphoproteomics, metaproteomics, bacterial sensing and signalling, ecological first principles, data science
 
 
 ## Education
