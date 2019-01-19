@@ -24,19 +24,12 @@ Phone: +1 (508)-289-3994
 
 ## Currently
 
-<<<<<<< HEAD
-Developing visualizations for marine metaproteomics data analysis.
-Optimizing phosphoproteomics for low quantity, complex samples.
-=======
 Investigating utility of metaproteomics datasets for systems biology questions.
 Studying nutritional stress in field populations of <a href = 'https://en.wikipedia.org/wiki/Trichodesmium'> Trichodesmium </a>
-
->>>>>>> origin/master
 
 ### Specialized in
 
 Proteomics, mass spectrometry, oceanography, microbial ecology, analytical chemistry, bioinformatics
-
 
 ### Research interests
 
@@ -161,15 +154,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Papers in Refereed Journals
-<<<<<<< HEAD
-`2018`
-- <strong>Held, N.</strong>, Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" PROC. OF THE 17th PYTHON IN SCIENCE CONF. (SCIPY 2018) <a href = 'http://conference.scipy.org/proceedings/scipy2018/n_held.html'>https://doi.org/10.25080/Majora-4af1f417-010 </a>
-- <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (submitted to mSystems)
-- Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (submitted to Nature Microbiology)
 
-`2017`
-- Lee, M., Webb, E., Walworth, N., Fu, F., <strong>Held, N.</strong>, Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Applied and Environmental Microbiology, In Press.<br><br>
-=======
 `2019`
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (2019) MSystems (in press).
 - Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (2019) Journal of Proteome Research (in press).
