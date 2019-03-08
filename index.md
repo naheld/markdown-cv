@@ -173,6 +173,11 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Papers Presented at Meetings, Seminars and Workshops
 
+`2019`
+- <strong> Held, N. </strong>, McIlvin, M., Webb, E., Waterbury, J., Saito, M. ASLO National Meeting: "Non-Leibig Limitation of Trichodesmium Throughout the World: Individuality in Metal-Microbe Interactions"
+- Cohen, N., McIlvin, M., Moran, D., <strong> Held, N. </strong> Saunders, J. Hawco, N. DiTullio, G. Lamborg, C. McCrow, J. Dupont, C. Allen, A. Saito, M.. ASLO National Meeting: "Constraining Metabolic Signatures in Mixotrophic Dinoflagellates Across Geochemical Graients in the Central Pacific Ocean."
+- Saunders, J., McIlvin, M., Moran, D.,<strong> Held, N.</strong>, Webb, E. Santoro, A. Dupont, C. Saito, M. ASLO National Meeting: "Functional Diversity of Bioenergetic Pathways Across Oxygen Gradients in the Central Pacific"
+
 `2018`
 - <strong>Held, N.</strong>, McIlvin, M., Saito, M. ASMS National Meeting: "Approaches for Environmental Phosphoproteomics: Measuring, Analyzing and Interpreting a MetaPhosphoproteome"  
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Saito, M. WHOI MC&G Department Seminar: "It's Tricky to Rock a Rhyme: Proteins and Protein Regulation in Trichodesmium"
@@ -203,7 +208,9 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2011`
 - <strong>Held, N.</strong>, Brown, E. Idaho INBRE conference "Water-Soluble Fluorescent Zinc Complexes: Potential Sensors for Hydrogen Sulfide in Aqueous Solution"
 
-## Workshop Participation
+## Workshop Participation and Organization
+- Introducing an Ocean Protein Portal Town Hall (ASLO National Meeting 2019) (Presenter)
+- Applying to Graduate School Workshop (ASLO National Meeting 2019) (Organizer)
 - Single Cell Proteomics (2018)
 - Best Practices in Marine Metaproteomics (2017)
 - "Call of the Wild" Interdiscipinary workshop (2016 and 2017)
