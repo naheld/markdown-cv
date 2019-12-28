@@ -3,13 +3,10 @@ layout: cv
 title: Noelle A. Held's CV
 ---
 # Noelle A. Held
-PhD Candidate, MIT-WHOI Joint Program in Chemical Oceanography
-
-Affiiated with WHOI Marine Chemistry and Geochemistry Department, MIT Department of Earth Atmospheric and Planetary Sciences, and MIT Program in Atmospheres Oceans and Climate (PAOC)
 
 <div id="webaddress">
 Email: nheld@mit.edu    |
-Phone: +1 (508)-289-3994
+Phone: +1 (407)-760-2743
 
 </div>
 
@@ -24,8 +21,7 @@ Phone: +1 (508)-289-3994
 
 ## Currently
 
-Investigating utility of metaproteomics datasets for systems biology questions.
-Studying nutritional stress in field populations of <a href = 'https://en.wikipedia.org/wiki/Trichodesmium'> Trichodesmium </a>
+Studying nutritional stress and associated protein modifications in field populations of <a href = 'https://en.wikipedia.org/wiki/Trichodesmium'> Trichodesmium. </a> 
 
 ### Specialized in
 
@@ -33,14 +29,16 @@ Proteomics, mass spectrometry, oceanography, microbial ecology, analytical chemi
 
 ### Research interests
 
-Oceanography, phosphoproteomics, metaproteomics, bacterial sensing and signalling, ecological first principles, data science
+Oceanography, phosphoproteomics, metaproteomics, bacterial sensing and signalling, ecological first principles, data science, nitrogen fixation
 
 
 ## Education
 
-`2013 - `
+`2014 - 2019`
 __MIT-WHOI Joint Program, Chemical Oceanography__
-- Anticipated graduation in Fall 2019
+- Ph.D. Chemical Oceanography and Microbial Biogeochemistry
+- Thesis title: "Protein regulation in <i>Trichodesmium</i> and other marine bacteria: Observational and interpretive biomarkers of biogeochemical process."
+- Affiliated with: WHOI Marine Chemistry and Geochemistry Department, MIT Department of Earth Atmospheric and Planetary Sciences, and MIT Program in Atmospheres Oceans and Climate (PAOC)
 
 `2010-13`
 __Stetson University, DeLand, FL__
@@ -54,6 +52,9 @@ __Seminole High School, Sanford, FL__
 - International Baccalaureate diploma, Summa cum laude
 
 ## Awards and Grants
+`2019`
+- Turkey Land Cove Foundation residency grant
+
 `2017`
 - WHOI Ocean Ventures and Von Dassel Fund grants
 
@@ -81,9 +82,9 @@ __Seminole High School, Sanford, FL__
 - National Security Language Initiative for Youth (NSLI-Y) Scholarship
 
 ## Research Experience
-`2014 -`
-- MIT-WHOI Joint Program
-Thesis topics: Protein biomarker discovery and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated applications to the study of marine bacteria. 
+`2014 - 2019`
+- MIT-WHOI Joint Program in Chemical Oceanography<br>
+Thesis topics: Protein biomarker discovery via metaproteomics and application to ocean monitoring. Focus on protein post-translational modification in marine microbes, and associated applications to the study of marine bacteria. Particular focus on Trichodesmium, a globally important marine diazotroph (N2 fixer).
 
 `2013`
 - Guest student and summer student fellow with Mak Saito, WHOI.
@@ -128,7 +129,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - American Chemical Society
 - Phi Beta Kappa
 - Phi Eta Sigma
-- Dobro Slovo
+- Dobro Slovo (Slavic languages)
 
 ## Programming Languages
 - Python (choice)
@@ -156,6 +157,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ### Papers in Refereed Journals
 
 `2019`
+- <strong> Noelle A. Held </strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium." Biogeosciences (submitted & available as a preprint)
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (2019) mSystems 4 (1) e00317-18; DOI: <a href = '10.1128/mSystems.00317-18'>10.1128/mSystems.00317-18</a>
 - Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (2019) Journal of Proteome Research Just Accepted Manuscript DOI: <a href = '10.1021/acs.jproteome.8b00761'>10.1021/acs.jproteome.8b00761</a>
 
@@ -164,9 +166,16 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 `2017`
 - Lee, M., Webb, E., Walworth, N., Fu, F., <strong>Held, N.</strong>, Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Appl. Environ. Microbiol. Dec 2017, 84 (1) e02026-17; DOI: <a href = '10.1128/AEM.02026-17'>10.1128/AEM.02026-17</a><br><br>
->>>>>>> origin/master
 
-### Other 
+
+### Papers in Preparation
+
+- <strong> Held, N. </strong>, Sutherland, K., McIlvin, M.M., Webb, E., Hansel, C.M., Saito, M.A. "Active processing of mineral particles by the colonial cyanobacterium Trichodesmium."
+- <strong>Held, N.</strong>, Waterbury, J., McIlvin, M.M., Saito, M.A. "Trichodesmium reshuffles cellular resources to support nitrogen fixation across the diel cycle."
+- <strong>Held, N.</strong>, Zakem, E., Laurence, A., "Small Beasts: Wildness in the Microbial World."
+
+
+### Other Writing
 
 `2017`
 - Orlando Sentinel, <a href = 'http://www.orlandosentinel.com/os-ed-why-i-march-for-science-new-voice-20170419-story.html'>Why I March for Science </a>
@@ -174,7 +183,14 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ## Papers Presented at Meetings, Seminars and Workshops
 
 `2019`
+- <strong> Held, N. </strong>, McIlvin, M., Webb, E., Sutherland, K., Hansel, C., Saito, M. ASMS Conference on Mass Spectrometry and Allied Topics: "Single Colony Metaproteomes of a Marine Cyanobacterium: Exploring small scale heterogeneity in the natural enviornment" 
 - <strong> Held, N. </strong>, McIlvin, M., Webb, E., Waterbury, J., Saito, M. ASLO National Meeting: "Non-Leibig Limitation of Trichodesmium Throughout the World: Individuality in Metal-Microbe Interactions"
+- Saunders, J., McIlvin, M., Moran, D., <strong> Held, N. </strong>, Dupont, C., Santoro, A., , McIlvin, M., Saito, M.A. ASMS Conference on Mass Spectrometry and Allied Topics
+: "Assessing the validity of protein inference on a large environmental metaproteomic dataset - ProteOMZ Expedition of the Central Pacific Ocean" 
+- Saito, M., Searle, B., Moran, D., Saunders, J.,  <strong> Held, N. </strong>, Dupont, C., Johnson, R., McIlvin, M. ASMS Conference on Mass Spectrometry and Allied Topics
+: "Metagenomic-based Metaproteomic Functional Characterization of the Sargasso Sea in a Three Year Time Series Dataset"
+- Gaylord, D., Saunders, J., <strong> Held, N. </strong>, Symmonds, N., Shepherd, A., Changon, M., Kinkade, D., Odelmont, T., Murat Eren, A., Dupont, C., Saito, M.A. ASMS Conference on Mass Spectrometry and Allied Topics
+: "METATRYP 2.0: Improvements in METATRYP Software for Metaproteomic Least Common Ancestor Analyses within the Ocean Protein Portal"
 - Cohen, N., McIlvin, M., Moran, D., <strong> Held, N. </strong> Saunders, J. Hawco, N. DiTullio, G. Lamborg, C. McCrow, J. Dupont, C. Allen, A. Saito, M.. ASLO National Meeting: "Constraining Metabolic Signatures in Mixotrophic Dinoflagellates Across Geochemical Graients in the Central Pacific Ocean."
 - Saunders, J., McIlvin, M., Moran, D.,<strong> Held, N.</strong>, Webb, E. Santoro, A. Dupont, C. Saito, M. ASLO National Meeting: "Functional Diversity of Bioenergetic Pathways Across Oxygen Gradients in the Central Pacific"
 
@@ -209,16 +225,21 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - <strong>Held, N.</strong>, Brown, E. Idaho INBRE conference "Water-Soluble Fluorescent Zinc Complexes: Potential Sensors for Hydrogen Sulfide in Aqueous Solution"
 
 ## Workshop Participation and Organization
+`2019`
 - Introducing an Ocean Protein Portal Town Hall (ASLO National Meeting 2019) (Presenter)
 - Applying to Graduate School Workshop (ASLO National Meeting 2019) (Organizer)
-- Single Cell Proteomics (2018)
-- Best Practices in Marine Metaproteomics (2017)
-- "Call of the Wild" Interdiscipinary workshop (2016 and 2017)
+
+`2018`
+- Single Cell Proteomics, Northeastern University
+
+`2017`
+- Best Practices in Marine Metaproteomics, Woods Hole, MA
+- "Call of the Wild" Interdiscipinary workshop (2016 and 2017), Cambridge, MA., and London, U.K.
 
 
 ## Teaching Experience
 `2016`
-- “Science, Politics and Environmental Policy”, Teaching Assistant
+- “Science, Politics and Environmental Policy”, Teaching Assistant for Prof. Susan Solomon, MIT
 
 `2015`
 - MIT Splash (High School Short Course): An Introduction to Mass Spec
@@ -228,6 +249,8 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - Starke Elementary School, science tutor and demonstration coordinator
 
 ## Outreach Talks and Speaking Engagements
+`2019`
+- "How to apply to graduate school" workshop, ASLO National Meeting
 
 `2017`
 - ASLO National Meeting NSF GRFP Workshop 
