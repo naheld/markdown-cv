@@ -3,10 +3,14 @@ layout: cv
 title: Noelle A. Held's CV
 ---
 # Noelle A. Held
+Postdoctoral Researcher<br>
+Department of Environmental Systems Science, ETH Zürich and <br>
+Department of Environmental Microbiology, Eawag
 
 <div id="webaddress">
-Email: nheld@mit.edu    |
-Phone: +1 (407)-760-2743
+Email: noelle.held@eawag.ch   |
+Phone: +1 (407)-760-2743	|
+Address: BU F10 Eawag, Ueberlandstrasse 133, 8600 Dübendorf, Switzerland
 
 </div>
 
@@ -19,9 +23,9 @@ Phone: +1 (407)-760-2743
 
 
 
-## Currently
+## Currently 
 
-Studying nutritional stress and associated protein modifications in field populations of <a href = 'https://en.wikipedia.org/wiki/Trichodesmium'> Trichodesmium. </a> 
+Starting work at ETH Zurich and Eawag, exploring bacterial behavior under multiple stressors 
 
 ### Specialized in
 
@@ -32,7 +36,10 @@ Proteomics, mass spectrometry, oceanography, microbial ecology, analytical chemi
 Oceanography, phosphoproteomics, metaproteomics, bacterial sensing and signalling, ecological first principles, data science, nitrogen fixation
 
 
-## Education
+## Education and Experience
+`April 2020-Present`
+__ETH Zürich Department of Environmental Systems Science and Eawag Department of Environmental Microbiology__
+- Postdoctoral Researcher, Mentor: Martin Ackermann
 
 `2014 - 2019`
 __MIT-WHOI Joint Program, Chemical Oceanography__
@@ -149,6 +156,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 - Spanish (Intermediate)
 - Russian (Early Intermediate)
 - American Sign Language (Early Intermediate) 
+- German (New learner)
 
 ## Publications
 
@@ -156,8 +164,10 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ### Papers in Refereed Journals
 
+`2020`
+- <strong>Noelle A. Held</strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium" Biogeosciences (in press).
+
 `2019`
-- <strong> Noelle A. Held </strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium." Biogeosciences (submitted & available as a preprint)
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (2019) mSystems 4 (1) e00317-18; DOI: <a href = '10.1128/mSystems.00317-18'>10.1128/mSystems.00317-18</a>
 - Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (2019) Journal of Proteome Research Just Accepted Manuscript DOI: <a href = '10.1021/acs.jproteome.8b00761'>10.1021/acs.jproteome.8b00761</a>
 
@@ -279,8 +289,8 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2012`
 - Stetson University Student Government, Chair of Academic Affairs
 
-<!-- ### Footer
+### Note
 
-Last updated: May 2017 -->
+Last updated: April 2020
 
 
