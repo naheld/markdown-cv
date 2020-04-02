@@ -8,9 +8,8 @@ Department of Environmental Systems Science, ETH Zürich and <br>
 Department of Environmental Microbiology, Eawag
 
 <div id="webaddress">
-Email: noelle.held@eawag.ch   |
-Phone: +1 (407)-760-2743	|
-Address: BU F10 Eawag, Ueberlandstrasse 133, 8600 Dübendorf, Switzerland
+Email: noelle.held@eawag.ch noelle.held@usys.ethz.ch   |
+Address: BU F06 Eawag, Ueberlandstrasse 133, 8600 Dübendorf, Switzerland
 
 </div>
 
