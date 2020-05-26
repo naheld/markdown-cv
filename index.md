@@ -164,11 +164,12 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 ### Papers in Refereed Journals
 
 `2020`
-- <strong>Noelle A. Held</strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium" Biogeosciences (in press).
+- <strong>Noelle A. Held</strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium" (2020) Biogeosciences 17, 2537-2251 <a href = 'https://www.biogeosciences.net/17/2537/2020/'>https://www.biogeosciences.net/17/2537/2020/</a>
+- Saunders J.K., Gaylord, D.A.,  <strong>Held, N.A., </strong>, Symmonds, N., Dupont, C.L., Shepherd, A., Kinkade, D., Saito, M.A. "METATRYP v 2.0: Metaproteomic Least Common Ancestor Analysis for Taxonomic Inference Using Specialized Sequence Assemblies-Standalone Software and Web Servers for Marine Microorganisms and Coronaviruses" (2020) bioRxiV <a href = 'https://www.biorxiv.org/content/10.1101/2020.05.20.107490v1.abstract'>https://www.biorxiv.org/content/10.1101/2020.05.20.107490v1.abstract</a>
 
 `2019`
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (2019) mSystems 4 (1) e00317-18; DOI: <a href = '10.1128/mSystems.00317-18'>10.1128/mSystems.00317-18</a>
-- Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (2019) Journal of Proteome Research Just Accepted Manuscript DOI: <a href = '10.1021/acs.jproteome.8b00761'>10.1021/acs.jproteome.8b00761</a>
+- Saito, M., Bertrand, E., Duffy, M., Gaylord, D., <strong>Held N.</strong>, Hervey, J., Hettich, R., Jagtap, P., Janech, M., Kinkade, D., Leary, D., McIlvin, M., Moore, E.K., Morris, R., Neely, B., A., Nunn, B. L., Saunders, J. K., Shepherd, A., Symmonds, N., Walsh, D. A. "Progress and Challenges in Ocean Metaproteomics and Proposed Best Practices for Data Sharing." (2019) Journal of Proteome Research 18:4, 1461-1476 DOI: <a href = '10.1021/acs.jproteome.8b00761'>10.1021/acs.jproteome.8b00761</a>
 
 `2018`
 - <strong>Held, N.</strong>, Saunders, J., Futrelle, J., Saito, M. and the Ocean Protein Portal Team. "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" PROC. OF THE 17th PYTHON IN SCIENCE CONF. (SCIPY 2018) <a href = 'http://conference.scipy.org/proceedings/scipy2018/n_held.html'>https://doi.org/10.25080/Majora-4af1f417-010 </a>
@@ -290,6 +291,6 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ### Note
 
-Last updated: April 2020
+Last updated: May 2020
 
 
