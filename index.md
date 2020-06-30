@@ -248,6 +248,9 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 
 ## Teaching Experience
+`2020 - `
+- Data Carpentries/Software Carpentries Instructor <a href = "https://carpentries.org/">https://carpentries.org</a>
+
 `2016`
 - “Science, Politics and Environmental Policy”, Teaching Assistant for Prof. Susan Solomon, MIT
 
