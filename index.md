@@ -194,6 +194,11 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Meetings, Seminars and Workshops
 
+`2020`
+- Co-organizer, Microbial Specialized Metabolism Seminar, ETHZ and University of Zurich (with Serina Robinson) 
+- University of Liverpool Ocean Seminar Series (Invited)
+
+
 `2019`
 - <strong> Held, N. </strong>, McIlvin, M., Webb, E., Sutherland, K., Hansel, C., Saito, M. ASMS Conference on Mass Spectrometry and Allied Topics: "Single Colony Metaproteomes of a Marine Cyanobacterium: Exploring small scale heterogeneity in the natural enviornment" 
 - <strong> Held, N. </strong>, McIlvin, M., Webb, E., Waterbury, J., Saito, M. ASLO National Meeting: "Non-Leibig Limitation of Trichodesmium Throughout the World: Individuality in Metal-Microbe Interactions"
