@@ -14,7 +14,6 @@ Address: BU F06 Eawag, Ueberlandstrasse 133, 8600 Dübendorf, Switzerland
 </div>
 
 <div id="webaddress">
-<a href="http://www.mit.edu/~nheld/">Web: http://www.mit.edu/~nheld/ </a><br>
 <a href="https://www.linkedin.com/in/noelleheld/">LinkedIn: https://www.linkedin.com/in/noelleheld/</a><br>
  <a href="https://github.com/naheld">Github: https://github.com/naheld</a>
 
@@ -139,7 +138,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Programming Languages
 - Python (choice)
-- Matlab
+- Matlab 
 - R
 - HTML/CSS
 
@@ -152,10 +151,10 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 
 ## Spoken Languages
 - English (Native)
-- Spanish (Intermediate)
+- Spanish (Early Intermediate)
 - Russian (Early Intermediate)
 - American Sign Language (Early Intermediate) 
-- German (New learner)
+- German (Very new learner)
 
 ## Publications
 
@@ -166,6 +165,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2020`
 - <strong>Noelle A. Held</strong>, Eric A. Webb, Matthew M. McIlvin, David A. Hutchins, Natalie R. Cohen, Dawn M. Moran, Korinna Kunde, Maeve C. Lohan, Claire Mahaffey, E. Malcolm S. Woodward, and Mak A. Saito. "Co-occurrence of Fe and P stress in natural populations of the marine diazotroph Trichodesmium" (2020) Biogeosciences 17, 2537-2251 <a href = 'https://www.biogeosciences.net/17/2537/2020/'>https://www.biogeosciences.net/17/2537/2020/</a>
 - Saunders J.K., Gaylord, D.A.,  <strong>Held, N.A., </strong>, Symmonds, N., Dupont, C.L., Shepherd, A., Kinkade, D., Saito, M.A. "METATRYP v 2.0: Metaproteomic Least Common Ancestor Analysis for Taxonomic Inference Using Specialized Sequence Assemblies-Standalone Software and Web Servers for Marine Microorganisms and Coronaviruses" (2020) bioRxiV <a href = 'https://www.biorxiv.org/content/10.1101/2020.05.20.107490v1.abstract'>https://www.biorxiv.org/content/10.1101/2020.05.20.107490v1.abstract</a>
+- Mak A. Saito, Jaclyn K Saunders, Michael Chagnon, David A. Gaylord, Adam Shepherd, Noelle A. Held, Christopher Dupont, Nicholas Symmonds, Amber York, Matthew Charron, and Danie B. Kinkade "Development of an Ocean Protein Portal for Interactive Discovery and Education." (2020) Journal of Proteome Research  
 
 `2019`
 - <strong>Held, N.</strong>, McIlvin, M., Moran, D., Laub, M., Saito, M. "Unusual patterns of two component sensing in marine bacteria." (2019) mSystems 4 (1) e00317-18; DOI: <a href = '10.1128/mSystems.00317-18'>10.1128/mSystems.00317-18</a>
@@ -177,12 +177,14 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2017`
 - Lee, M., Webb, E., Walworth, N., Fu, F., <strong>Held, N.</strong>, Saito, M., and Hutchins, D. "Transcriptional activities of the microbial consortium living with the marine nitrogen-fixing cyanobacterium Trichodesmium reveal potential roles in community-level nitrogen cycling " Appl. Environ. Microbiol. Dec 2017, 84 (1) e02026-17; DOI: <a href = '10.1128/AEM.02026-17'>10.1128/AEM.02026-17</a><br><br>
 
+### Preprints
+- <strong>Held, N. A.</strong>, Sutherland, K. M., Webb, E. A., Mcilvin, M. R. & Natalie, R. Mechanisms and heterogeneity of mineral use by natural colonies of the cyanobacterium Trichodesmium. 1–13 BioRxiV (2020). <a href = "https://www.biorxiv.org/content/10.1101/2020.09.24.295147v1"> Link </a>
+
 
 ### Papers in Preparation
 
-- <strong> Held, N. </strong>, Sutherland, K., McIlvin, M.M., Webb, E., Hansel, C.M., Saito, M.A. "Active processing of mineral particles by the colonial cyanobacterium Trichodesmium."
-- <strong>Held, N.</strong>, Waterbury, J., McIlvin, M.M., Saito, M.A. "Trichodesmium reshuffles cellular resources to support nitrogen fixation across the diel cycle."
-- <strong>Held, N.</strong>, Zakem, E., Laurence, A., "Small Beasts: Wildness in the Microbial World."
+- <strong>Held, N.</strong>, Waterbury, J., McIlvin, M.M., Saito, M.A. "Dynamic diel proteome and daytime nitrogenase activity supports buoyancy in Trichodesmium erythraeum."
+
 
 
 ### Other Writing
@@ -190,7 +192,7 @@ MSM-25: Trace metals and proteins near the Mid-Atlantic Ridge, hydrothermal vent
 `2017`
 - Orlando Sentinel, <a href = 'http://www.orlandosentinel.com/os-ed-why-i-march-for-science-new-voice-20170419-story.html'>Why I March for Science </a>
 
-## Papers Presented at Meetings, Seminars and Workshops
+## Meetings, Seminars and Workshops
 
 `2019`
 - <strong> Held, N. </strong>, McIlvin, M., Webb, E., Sutherland, K., Hansel, C., Saito, M. ASMS Conference on Mass Spectrometry and Allied Topics: "Single Colony Metaproteomes of a Marine Cyanobacterium: Exploring small scale heterogeneity in the natural enviornment" 
